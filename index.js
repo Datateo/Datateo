@@ -31,11 +31,8 @@ request.onload = function () {
     var oc_description_text, oc_description;
     oc_description = document.querySelector('#output_description');
     oc_description_text = document.createElement("p");
-    oc_description_text.innerHTML = "Professional: <br> GIS Software developer with five years of industry experience. Although most of my expertise is in GIS Python software development, I also have experience working with ETLs, Dashboards, Workflows and Data analysis in general. I have helped create various applications to assist in geothermal, land administration and mining.";
+    oc_description_text.innerHTML = "<br> More than 8 years with highly developed organization and time management skills, along with the ability to work independently, developed through experience creating, planning, executing, managing, and evaluating over 50 sports processes Experience providing teaching services, methodological design, and advice on training and high-performance sports processes, mainly in soccer and physical preparation. <br> <br> Certified knowledge in technical fundamentals and team support, networking, programming and cybersecurity. Support and troubleshooting. Constant learning and constant professional development in knowledge of programming languages and frameworks and professional enrichment.";
     oc_description_text.innerHTML += "<br><br>";
-    oc_description_text.innerHTML += "Data Science: <br> I work on my DataScience projects in my free time, mainly with free software like Avianca Web Scrapping, Geojobs (Web scrapping and analysis jobs offer on Indeep web page) and Real State platform (Machine learning, AWS and Data analysis).";
-    oc_description_text.innerHTML += "<br><br>";
-    oc_description_text.innerHTML += "Community: <br> I support the QGIS Community in Colombia. I am a member of the QGIS Colombia organization and support the community with knowledge generation. Otherwise, I regularly answer questions in the community GIS Stack Exchange, allowing solve some GIS issues.";
     oc_description.appendChild(oc_description_text);
 
     // Skills
@@ -86,11 +83,11 @@ request.onload = function () {
 
     var location_plot_data = [{
         type: 'scattermapbox',
-        lat: ['48.4102093'],
-        lon: ['-123.3601209'],
+        lat: ['48.4145231'],
+        lon: ['-123.3740855'],
         mode: 'markers',
         marker: {
-            size: 28,
+            size: 12,
             color: 'red',
         },
         text: ['Mateo Ramirez'],
