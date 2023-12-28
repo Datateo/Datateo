@@ -26,20 +26,14 @@
         {
             "index": 1,
             "fab-class": "fab fa-linkedin fa-3x",
-            "href": "https://www.linkedin.com/in/jhonalex06/",
-            "text": "linkedin.com/in/jhonalex06/"
+            "href": "https://www.linkedin.com/in/mateoramirezramirez1996/",
+            "text": "linkedin.com/in/mateoramirezramirez1996/"
         },
         {
             "index": 2,
             "fab-class": "fab fa-github-square fa-3x",
-            "href": "https://github.com/jhonalex06",
-            "text": "github.com/jhonalex06"
-        },
-        {
-            "index": 3,
-            "fab-class": "fab fa-gitlab fa-3x",
-            "href": "https://gitlab.com/jhonalex06",
-            "text": "gitlab.com/jhonalex06"
+            "href": "https://github.com/Datateo/Datateo",
+            "text": "github.com/Datateo"
         }
     ],
     "experiences": {
