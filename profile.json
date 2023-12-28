@@ -2,39 +2,25 @@
     "education": [
         {
             "index": 0,
-            "subject": "Master of Science",
-            "degree": "Information and communications sciences",
-            "school": "Universidad Distrital Francisco José de Caldas",
-            "year": "Present"
+            "subject": "Junior IT Analyst Program",
+            "degree": "Certificate",
+            "school": "Npower Canada",
+            "year": "2023"
         },
         {
             "index": 1,
-            "subject": "Inteligencia Artificial MinTIC - Icetex",
+            "subject": "Junior IT support ",
             "degree": "Certificate",
-            "school": "Platzi",
-            "year": "2020"
+            "school": "Google and Coursera",
+            "year": "2023"
         },
         {
             "index": 2,
-            "subject": "DS4A: Colombia 2019",
-            "degree": "Certificate",
-            "school": "Ministerio de Tecnologías de la Información y las Comunicaciones",
-            "year": "2019"
+            "subject": "Professional in Sports Sciences and Recreation",
+            "degree": "Professional title",
+            "school": "Universidad Tecnologica de Pereira",
+            "year": "2021"
         },
-        {
-            "index": 3,
-            "subject": "Bachelor's degree",
-            "degree": "Cadastral Engineer and Geodesist",
-            "school": "Universidad Distrital Francisco José de Caldas",
-            "year": "2018"
-        },
-        {
-            "index": 4,
-            "subject": "Bachelor's degree award",
-            "degree": "Geodesy academic monitor",
-            "school": "Universidad Distrital Francisco José de Caldas",
-            "year": "2017"
-        }
     ],
     "contacts": [
         {
