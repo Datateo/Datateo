@@ -1,26 +1,26 @@
 {
     "education": [
         {
-            "index": 0,
+            "index": 1,
             "subject": "Junior IT Analyst Program",
             "degree": "Certificate",
             "school": "Npower Canada",
             "year": "2023"
         },
         {
-            "index": 1,
+            "index": 2,
             "subject": "Junior IT support ",
             "degree": "Certificate",
             "school": "Google and Coursera",
             "year": "2023"
         },
         {
-            "index": 2,
+            "index": 3,
             "subject": "Professional in Sports Sciences and Recreation",
-            "degree": "Professional title",
+            "degree": "Professional Title",
             "school": "Universidad Tecnologica de Pereira",
             "year": "2021"
-        },
+        }
     ],
     "contacts": [
         {
